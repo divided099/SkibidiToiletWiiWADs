@@ -2,7 +2,7 @@
 
 ![Thumbnail1](https://github.com/user-attachments/assets/b98081bf-0f82-4cb8-bc81-8a4497f1f17d)
 
-This repository contains almost all of my Wii Skibidi Toilet WADs.
+This Github repository contains almost all of my Wii Skibidi Toilet WADs.
 
 Credits to:
 
@@ -22,6 +22,8 @@ Credits to:
 # Additional
 
 Please let me know if I've missed anyone out.
+
+Every single one of my Skibidi Toilet WADs, can be found here: https://files.catbox.moe/evrxtt.zip
 
 # my linktree:
 https://linktr.ee/cantstopdivided
